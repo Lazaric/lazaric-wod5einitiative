@@ -4,9 +4,8 @@
   "type": "module",
   "title": "Lazarics WOD 5e Initiative",
   "description": "Custom initiative system for World of Darkness. Rerolls each round using Wits + Awareness. Includes scripts to push tokens up or down the order.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "library": false,
-  "manifestPlusVersion": "1.3.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
